@@ -1,5 +1,7 @@
 # database-oracle
-新生入学登录 SQLPLUS
+新生入学登录 
+
+SQLPLUS
 cmd
 sqlplus [用户名]/[密码][@数据库] [参数]
 sqlplus sys/orcl as sysdba  -- 登录 sys 用户，必须指定 sysdba 或 sysoper 身份
