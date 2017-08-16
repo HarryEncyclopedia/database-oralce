@@ -1,2 +1,2 @@
-# database-oralce
-新生入手
+# database-oracle
+新生入学
